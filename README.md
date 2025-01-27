@@ -6,5 +6,5 @@
  Hi, I'm Purvesh Patil
 
  
- A final-year B.Tech Information Technology student with a passion for continuous learning and software development. I love exploring new technologies.
+ A final-year B.Tech Information Technology student with a passion for continuous learning and software development.Love exploring new technologies.
  Feel free to explore, reach out if you'd like to discuss something.
